@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo">Calculadora IMD</string>
+    <string name="frag1">Calculadora</string>
+    <string name="frag2">Notas</string>
+    <string name="resultado">Resultado:</string>
+    <string name="situacao">Situação:</string>
+    <string name="calcular">Calcular</string>
+    <string name="csmedia">Calcule sua Média</string>
+    <string name="rodape">Desenvolvido por: Débora Tayná</string>
+    <string name="n1">Insira nota 01</string>
+    <string name="n2">Insira nota 02</string>
+    <string name="n3">Insira nota 03</string>
+    <string name="c1">1</string>
+    <string name="c2">2</string>
+    <string name="c3">3</string>
+    <string name="c4">4</string>
+    <string name="c5">5</string>
+    <string name="c6">6</string>
+    <string name="c7">7</string>
+    <string name="c8">8</string>
+    <string name="c9">9</string>
+    <string name="c0">0</string>
+    <string name="csoma">+</string>
+    <string name="csub">-</string>
+    <string name="cmult">*</string>
+    <string name="cdiv">/</string>
+    <string name="cdel">DEL</string>
+    <string name="cigual">=</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
